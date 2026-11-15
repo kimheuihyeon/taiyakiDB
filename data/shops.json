@@ -1,0 +1,155 @@
+[
+  {
+    "id": "jp-naniwaya-sohonten",
+    "name": "Naniwaya Sohonten",
+    "name_local": "元祖たいやき 浪花家総本店",
+    "country_code": "JP",
+    "region": "Tokyo",
+    "city": "Minato",
+    "address": "東京都港区麻布十番1-8-14",
+    "lat": 35.656199,
+    "lng": 139.735103,
+    "kind": "shop",
+    "style": "tennen",
+    "kawa": [
+      "usuyaki"
+    ],
+    "an": [
+      "tsubuan"
+    ],
+    "phone": "03-3583-4975",
+    "payment": "cash_only",
+    "website": "https://www.azabujuban.or.jp/shop/shop_category/eat/219",
+    "note": {
+      "ko": "1909년 창업, 타이야키 원조로 소개되는 가게. 아자부주반역 5b 출구 근처. 개점 시간은 출처마다 10시/11시로 달라 방문 전 확인 필요.",
+      "ja": "1909年創業。たい焼きの元祖として紹介されるお店。麻布十番駅5b出口の近く。開店時間は情報源によって10時/11時と異なるため、訪問前に確認を。",
+      "zh": "创业于1909年，被介绍为鲷鱼烧的元祖店。靠近麻布十番站5b出口。开门时间各来源有10点和11点两种说法，去之前请确认。",
+      "en": "Founded in 1909 and often described as the original taiyaki shop. Near exit 5b of Azabu-Juban Station. Sources disagree on opening time (10:00 or 11:00), so check before you go.",
+      "de": "1909 gegründet und oft als Ursprung des Taiyaki beschrieben. Nahe Ausgang 5b der Station Azabu-Juban. Die Quellen nennen 10 oder 11 Uhr als Öffnungszeit, also vorher prüfen.",
+      "es": "Fundada en 1909 y descrita a menudo como la tienda original de taiyaki. Cerca de la salida 5b de la estación Azabu-Juban. Las fuentes difieren en la hora de apertura (10:00 u 11:00); compruébala antes de ir.",
+      "pt": "Fundada em 1909 e frequentemente descrita como a loja original de taiyaki. Perto da saída 5b da estação Azabu-Juban. As fontes divergem sobre o horário de abertura (10h ou 11h); confirme antes de ir."
+    },
+    "verified_at": "2026-11-15",
+    "_source": "Tabelog, Time Out Tokyo, nippon.com",
+    "verified": true,
+    "status": "open",
+    "hours": {
+      "tz": "Asia/Tokyo",
+      "days": [
+        0,
+        1,
+        4,
+        5,
+        6
+      ],
+      "open": "11:00",
+      "close": "19:00"
+    }
+  },
+  {
+    "id": "seed-jp-wakaba",
+    "name": "Wakaba",
+    "name_local": "わかば",
+    "country_code": "JP",
+    "region": "Tokyo",
+    "city": "Shinjuku",
+    "lat": 35.687,
+    "lng": 139.72,
+    "kind": "shop",
+    "note": {
+      "ko": "요츠야의 유명 타이야키 가게.",
+      "ja": "四谷の有名なたい焼き店。",
+      "zh": "四谷有名的鲷鱼烧店。",
+      "en": "A well-known taiyaki shop in Yotsuya.",
+      "de": "Ein bekannter Taiyaki-Laden in Yotsuya.",
+      "es": "Una conocida tienda de taiyaki en Yotsuya.",
+      "pt": "Uma conhecida loja de taiyaki em Yotsuya."
+    },
+    "verified": false
+  },
+  {
+    "id": "seed-us-taiyakinyc",
+    "name": "Taiyaki NYC",
+    "country_code": "US",
+    "region": "New York",
+    "city": "New York",
+    "lat": 40.7195,
+    "lng": -73.9965,
+    "kind": "shop",
+    "note": {
+      "ko": "아이스크림 타이야키콘 전문점.",
+      "ja": "アイスクリームたい焼きコーンの専門店。",
+      "zh": "冰淇淋鲷鱼烧甜筒专门店。",
+      "en": "Specializes in taiyaki ice cream cones.",
+      "de": "Spezialisiert auf Taiyaki-Eiswaffeln.",
+      "es": "Especializada en conos de helado de taiyaki.",
+      "pt": "Especializada em casquinhas de sorvete de taiyaki."
+    },
+    "verified": false
+  },
+  {
+    "id": "seed-kr-myeongdong",
+    "name": {
+      "ko": "명동 붕어빵 노점",
+      "ja": "明洞のプンオパン屋台",
+      "zh": "明洞鲫鱼饼摊",
+      "en": "Myeongdong bungeoppang stalls",
+      "de": "Bungeoppang-Stände in Myeongdong",
+      "es": "Puestos de bungeoppang en Myeongdong",
+      "pt": "Barracas de bungeoppang em Myeongdong"
+    },
+    "country_code": "KR",
+    "region": "Seoul",
+    "city": "Seoul",
+    "lat": 37.5636,
+    "lng": 126.9834,
+    "kind": "stall",
+    "note": {
+      "ko": "겨울철 노점 구역. 정확한 위치는 확인 필요.",
+      "ja": "冬の屋台エリア。正確な位置は要確認。",
+      "zh": "冬季摊位区域。准确位置有待确认。",
+      "en": "Winter street-stall area. Exact location needs checking.",
+      "de": "Bereich mit Straßenständen im Winter. Genaue Lage muss noch geprüft werden.",
+      "es": "Zona de puestos callejeros en invierno. La ubicación exacta está por confirmar.",
+      "pt": "Área de barracas de rua no inverno. A localização exata precisa ser confirmada."
+    },
+    "verified": false,
+    "status": "seasonal",
+    "season_months": [
+      11,
+      12,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "seed-tw-ximending",
+    "name": {
+      "ko": "시먼딩 차륜병 노점",
+      "ja": "西門町の車輪餅屋台",
+      "zh": "西门町车轮饼摊",
+      "en": "Ximending wheel cake stalls",
+      "de": "Radkuchen-Stände in Ximending",
+      "es": "Puestos de pastel de rueda en Ximending",
+      "pt": "Barracas de bolo de roda em Ximending"
+    },
+    "name_local": "車輪餅",
+    "country_code": "TW",
+    "region": "Taipei",
+    "city": "Taipei",
+    "lat": 25.0478,
+    "lng": 121.5171,
+    "kind": "stall",
+    "note": {
+      "ko": "대만식 붕어빵. 정확한 위치는 확인 필요.",
+      "ja": "台湾の車輪餅。正確な位置は要確認。",
+      "zh": "台湾的车轮饼。准确位置有待确认。",
+      "en": "Taiwanese wheel cakes. Exact location needs checking.",
+      "de": "Taiwanische Radkuchen. Genaue Lage muss noch geprüft werden.",
+      "es": "Pasteles de rueda taiwaneses. La ubicación exacta está por confirmar.",
+      "pt": "Bolos de roda taiwaneses. A localização exata precisa ser confirmada."
+    },
+    "verified": false
+  }
+]

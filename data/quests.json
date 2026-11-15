@@ -1,0 +1,71 @@
+{
+  "quests": [
+    {
+      "id": "first",
+      "rule": {
+        "type": "visit_count",
+        "n": 1
+      }
+    },
+    {
+      "id": "regular",
+      "rule": {
+        "type": "same_shop",
+        "n": 3
+      }
+    },
+    {
+      "id": "flavors",
+      "rule": {
+        "type": "distinct_an",
+        "n": 3
+      }
+    },
+    {
+      "id": "tennen",
+      "rule": {
+        "type": "visit_style",
+        "style": "tennen"
+      }
+    },
+    {
+      "id": "zukan",
+      "rule": {
+        "type": "combos",
+        "n": 10
+      }
+    },
+    {
+      "id": "giant",
+      "rare": true,
+      "rule": {
+        "type": "visit_size",
+        "size": "giant"
+      }
+    },
+    {
+      "id": "northmost",
+      "rare": true,
+      "rule": {
+        "type": "visit_tag",
+        "tag": "northmost"
+      }
+    },
+    {
+      "id": "southmost",
+      "rare": true,
+      "rule": {
+        "type": "visit_tag",
+        "tag": "southmost"
+      }
+    },
+    {
+      "id": "tokyo23",
+      "trophy": true,
+      "rule": {
+        "type": "cover_areas",
+        "set": "tokyo23"
+      }
+    }
+  ]
+}
