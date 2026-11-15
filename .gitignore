@@ -1,4 +1,6 @@
 proc
-scripts
+/scripts/
+scripts/validate.py
 import
 .DS_Store
+tools
